@@ -88,7 +88,7 @@ Các request từ người dùng đều được xác thực bằng Form Request
 Sử dụng Eloquent ORM với kỹ thuật eager loading giúp tránh lỗi N+1 query.
 ## 🧱 Sơ đồ cấu trúc (Class Diagram)
 
-**![Flow Activity Flow](images/Sodocautrc.drawio.png)
+**![ui](images/Sodocautrc.drawio.png)**
 
 ## 🧱 Sơ đồ thuật toán  (Activity Diagram)
 
