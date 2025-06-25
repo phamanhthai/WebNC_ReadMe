@@ -88,17 +88,17 @@ Các request từ người dùng đều được xác thực bằng Form Request
 Sử dụng Eloquent ORM với kỹ thuật eager loading giúp tránh lỗi N+1 query.
 ## 🧱 Sơ đồ cấu trúc (Class Diagram)
 
-![ui](images/Sodocautrc.drawio.png)
+**![ui](../images/Sodocautrc.drawio.png)**
 
 ## 🧱 Sơ đồ thuật toán  (Activity Diagram)
 
 🛍️ Hiển thị tất cả sản phẩm được mua bởi khách hàng:
 
-![ui](images/Sodothuattoan1.drawio.png)
+**![ui](../images/Sodothuattoan1.drawio.png)**
 
 📊 Tìm kiếm sản phẩm được chọn nhiều nhất:
 
-![ui](images/Sodothuattoan2.drawio.png)
+**![ui](../images/Sodothuattoan2.drawio.png)**
 
 ## Code minh họa
 ### 1.Model products và các mối quan hệ phức tạp
